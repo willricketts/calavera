@@ -1,0 +1,2 @@
+# Calavera
+IRC chat bot
